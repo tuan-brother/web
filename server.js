@@ -22,14 +22,14 @@
 
 //npm i --save-exact express@4.18.2
 
-// require('dotenv').config()
-// const express = require('express')
-// const path = require('path')
-// const bodyParser = require('body-parser')
-// const app = express()
-// const { Banner, MyDecks, MyModel } = require('./connectDB')
-// const fs = require('fs-extra');
-// const translate = require('translate-google')
+require('dotenv').config()
+const express = require('express')
+const path = require('path')
+const bodyParser = require('body-parser')
+const app = express()
+const { Banner, MyDecks, MyModel } = require('./connectDB')
+const fs = require('fs-extra');
+const translate = require('translate-google')
 
 // // parse application/x-www-form-urlencoded
 // app.use(bodyParser.urlencoded({ extended: false }))
@@ -39,8 +39,8 @@
 
 // const configEngine = require('./src/config/viewEngine')
 // const { da, de } = require('translate-google/languages')
-// const port = process.env.PORT || 3000
-// const hostname = process.env.HOST_NAME
+const port = process.env.PORT || 3000
+const hostname = process.env.HOST_NAME
 
 // //config engine
 // app.set('views', path.join(__dirname, 'src/views'))
@@ -179,9 +179,9 @@
 // })
 
 //test server
-const express = require('express')
-const app = express()
-const port = process.env.PORT || 4000;
+// const express = require('express')
+
+// const port = process.env.PORT || 3000;
 app.get('/', (req, res) => {
   res.send('Hello World!')
 })
