@@ -1,0 +1,818 @@
+[
+    {
+        "id": 57,
+        "name": "2000s Hits",
+        "description": "Test your 2000s music knowledge! Use a combination of singing, humming, references to pop culture moments, and musical descriptions to guide your friends down memory lane!",
+        "banner": "'00s Songs",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 109,
+        "name": "'70s Music",
+        "description": "If you still love disco, here is your chance to sing your heart out while your friend tries to guess the song that’s on their forehead. Remember to hum or sing without giving away the song’s title.",
+        "banner": "'70s Music",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 40,
+        "name": "'80s Music",
+        "description": "Revisit the 80s and dance to some of the biggest hits ever. Guess the word by listening to your friends hum every song!",
+        "banner": "'80s Music",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 138,
+        "name": "'90s Music",
+        "description": "The era of grunge and boy bands, and it is up to you to guess them all. Listen as your friends hum some of the biggest hits of the 1990s and try to guess the song on the screen.",
+        "banner": "'90s Music",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 111,
+        "name": "2010s Hits",
+        "description": "Get ready to groove! Hum or act out your favorite 2010s hits and see if your friends can guess the song.",
+        "banner": "2010s Music",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 18,
+        "name": "Act It Out",
+        "description": "Bring everyday life to the stage! Act out common actions, objects, or scenarios on the card. It's all about creativity, quick thinking, and plenty of laughter!",
+        "banner": "Act It Out",
+        "unlocked": true,
+        "done": true
+    },
+    {
+        "id": 24,
+        "name": "Act It Out 2",
+        "description": "Act or guess again! Show off your acting skills or test your deductive abilities.",
+        "banner": "Act It Out 2",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 76,
+        "name": "Act It Out 3",
+        "description": "Take the stage for one last round of acting or guess the word from your friends' hilarious performances.",
+        "banner": "Act It Out 3",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 115,
+        "name": "Christmas Acting Challenge",
+        "description": "Act out Christmas-themed scenes and guess the word!",
+        "banner": "Act It Out Christmas",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 123,
+        "name": "Act It Out Kids",
+        "description": "Use your imagination! Act out words and sounds for a fun family game.",
+        "banner": "Act It Out Kids",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 122,
+        "name": "Act It Out Summer",
+        "description": "Show off your mime skills! Act out summer-related words and activities.",
+        "banner": "Act It Out Summer",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 113,
+        "name": "Act It Out Teams",
+        "description": "Teamwork makes the dream work! Partner with a friend to act out words for your team to guess.",
+        "banner": "Act It Out Teams",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 43,
+        "name": "Football Blitz",
+        "description": "Test your football knowledge! Guess players, coaches, and more.",
+        "banner": "American Football",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 20,
+        "name": "Anatomy",
+        "description": "Can you guess them all? Act out body parts and see how many you can identify.",
+        "banner": "Anatomy",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 3,
+        "name": "Animals",
+        "description": "Can you guess the animal on the card? Make your friends act it out and use only sounds for an extra challenge!",
+        "banner": "Animals",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 124,
+        "name": "Animals: Kids Version",
+        "description": "Create your own animal kingdom! Transform into any creature you can imagine. Howl like a wolf, swim like a fish, and soar like an eagle.",
+        "banner": "Animals: Kids Edition",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 46,
+        "name": "Cartoon Craze",
+        "description": "Join the cartoon craze! Act out or give clues for your friends to guess popular animated series and characters.",
+        "banner": "Animated Series",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 32,
+        "name": "Animated Films",
+        "description": "Relive your childhood with these classic animated films! Guess the movie based on your friends' clues.",
+        "banner": "Animation Movies",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 38,
+        "name": "Anime",
+        "description": "Gather your friends and dive into the world of anime! Test your knowledge with fun and challenging clues. Who will be the ultimate anime expert?",
+        "banner": "Anime",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 10,
+        "name": "Art Genius",
+        "description": "Think you know your art history? Test your knowledge of famous artists and their masterpieces. Can you name that painting?",
+        "banner": "Art",
+        "unlocked": true,
+        "done": true
+    },
+    {
+        "id": 114,
+        "name": "Autumn",
+        "description": "Relive the magic of fall! Guess autumn-themed words and enjoy a cozy afternoon with friends.",
+        "banner": "Autumn",
+        "unlocked": true,
+        "done": true
+    },
+    {
+        "id": 21,
+        "name": "Famous Bands & Artists",
+        "description": "From rock to jazz, guess the band or artist while your friends hum their top songs.",
+        "banner": "Bands & Artists",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 56,
+        "name": "Baseball",
+        "description": "Guess players, teams, and other baseball-related terms to make it to the Major Leagues. Get your friends to describe the words without saying any on-screen text.",
+        "banner": "Baseball",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 48,
+        "name": "Basketball",
+        "description": "Get in the game and guess all the NBA stars and teams while your friends act them out. No text allowed—just pure basketball fun!",
+        "banner": "Basketball",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 34,
+        "name": "Bollywood",
+        "description": "Join the Bollywood fun and guess the famous movies and stars as your friends bring them to life. No text allowed—just lively charades!",
+        "banner": "Bollywood",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 11,
+        "name": "Book Club",
+        "description": "Guess the book title from your friends’ descriptions of the plot, without any character names. Perfect for all the book enthusiasts!",
+        "banner": "Book Club",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 8,
+        "name": "Brands",
+        "description": "Guess the brand on the card. Ask your friends for tips, but don't let them rhyme! Use act-outs for a bigger challenge.",
+        "banner": "Brands",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 55,
+        "name": "Brands 2",
+        "description": "If you know all the brands and then some more, get ready for many more brands! Guess them all as your friends describe their products/services.",
+        "banner": "Brands 2",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 51,
+        "name": "Brazilian Rhythms, Samba & More",
+        "description": "Dive into Rio's vibrant music scene! Guess the song on the card as your friends hum classic and contemporary Brazilian hits.",
+        "banner": "Brazilian Music",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 69,
+        "name": "Breaking Bad",
+        "description": "Dive into Heisenberg’s empire! Guess the Breaking Bad-related words as your friends act them out and describe the unforgettable moments.",
+        "banner": "Breaking Bad",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 70,
+        "name": "Broadway Showdown",
+        "description": "Can you decode the drama? Guess the Broadway musicals and plays as your friends perform their plots. No text hints—just pure theatrical fun!",
+        "banner": "Broadway",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 28,
+        "name": "Career Charades",
+        "description": "Pause your work and dive into some fun! Guess the job title from your friends’ descriptions without synonyms. Boost the challenge by acting it out!",
+        "banner": "Career Day",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 9,
+        "name": "Celebrities",
+        "description": "Guess the iconic celebrity on the card as your friends bring them to life through acting and clues. A fun challenge for star-struck fans!",
+        "banner": "Celebrities",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 7,
+        "name": "Famous Figures",
+        "description": "Guess the iconic figures from your friends’ impersonations and actions. Test your knowledge of these unforgettable characters with a fun charades twist!",
+        "banner": "Characters",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 72,
+        "name": "Christmas Movie Magic",
+        "description": "Guess the beloved Christmas movie as your friends act out the plot and provide clues without mentioning character names. A holiday-themed charades game full of festive fun!",
+        "banner": "Christmas Movies",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 116,
+        "name": "Christmas Songs",
+        "description": "Hum some of the most beloved Christmas carols and see if your friends can guess them right away. For an extra challenge, try humming without lyrics!",
+        "banner": "Christmas Music",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 6,
+        "name": "Countries",
+        "description": "Imagine you're a world traveler! Can you identify the country being described on the card? Challenge your friends to guess famous landmarks, cultural symbols, and unique facts about countries around the world.",
+        "banner": "Countries",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 53,
+        "name": "Crypto Guessing Game",
+        "description": "Test your knowledge of cryptocurrencies! Your friends will describe the term without revealing it, and you need to guess it quickly for the win!",
+        "banner": "Cryptocurrencies",
+         "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 137,
+        "name": "DC Comics",
+        "description": "From Gotham to Metropolis, guess the DC characters as your friends act out their favorite heroes and villains. Try to guess the word on your forehead in one try!",
+        "banner": "DC Comics",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 86,
+        "name": "Dance Off",
+        "description": "See your friends hit the floor with their best dance moves, including the latest TikTok sensations. Guess the dance move as quickly as you can and win the challenge!",
+        "banner": "Dance Moves",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 37,
+        "name": "Disney Magic",
+        "description": "Take a nostalgic journey and guess the names of beloved Disney movies and characters. For added fun, have your friends act out famous movie scenes and plots!",
+        "banner": "Disney",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 129,
+        "name": "Disney Icons",
+        "description": "Spot all your beloved Disney characters! Have your friends give their best performances, and see if you can guess each iconic character!",
+        "banner": "Disney Characters",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 130,
+        "name": "Disney Film Challenge",
+        "description": "Guess the Disney movie from the scenes your friends act out. For an added challenge, try to perform without giving away any hints!",
+        "banner": "Disney Movies",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 131,
+        "name": "Disney Melodies",
+        "description": "Show off your Disney music knowledge by humming popular tunes from beloved movies. Can your friends guess the song title just from your melody?",
+        "banner": "Disney Songs",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 132,
+        "name": "Popular Duos",
+        "description": "From classic couples to dynamic duos, act out famous pairs and have your friends guess who they are. The clock is ticking—how many can you identify?",
+        "banner": "Famous Duos",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 14,
+        "name": "Notable People",
+        "description": "Guess the influential people who have shaped our world based on hints from your friends. Keep it challenging by restricting the hints to 5!",
+        "banner": "Famous People",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 63,
+        "name": "Fashion Showdown",
+        "description": "Guess the names of popular fashion brands as your friends provide descriptions—challenge them to avoid rhyming for an added twist!",
+        "banner": "Fashion",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 82,
+        "name": "Complete the Lyrics",
+        "description": "Sing the lyrics that appear on the card with help from your friends who’ll perform the preceding lines. How many songs can you complete and become a star?",
+        "banner": "Finish the Lyrics",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 47,
+        "name": "Food",
+        "description": "Become a culinary expert!! Identify the dish on the card and vividly describe it! Try hinting to your friends how it's prepared in real life for added excitement.",
+        "banner": "Food",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 108,
+        "name": "World Cuisine Challenge",
+        "description": "Guess dishes from every corner of the world with descriptions limited to just 5 words. Show off your knowledge of global cuisine!",
+        "banner": "Food of the World",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 84,
+       "name": "Fortnite Moves Showdown",
+        "description": "It’s time to flaunt your Fortnite moves! Your friends will try to guess each dance you perform before the time is up. Ready to impress?",
+        "banner": "Fortnite Moves",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 22,
+        "name": "Friends",
+        "description": "Could you BE any more of a Friends fan? Guess the words related to the legendary sitcom while reminiscing about Ross, Rachel, and the gang!",
+        "banner": "Friends",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 36,
+        "name": "Game of Thrones",
+        "description": "Enter the realm of Westeros with this epic theme! Can you identify the characters, houses, and iconic moments from the hit series? From epic battles to cunning political schemes, immerse yourself in the world of Game of Thrones and claim the Iron Throne of trivia supremacy!",
+        "banner": "Game of Thrones",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 17,
+        "name": "Games",
+        "description": "For all the game-nighters and night-time gamers out there. Guess the game while your friends explain or act them out. No rhyming!",
+        "banner": "Games",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 23,
+        "name": "Landmarks",
+        "description": "Embark on a journey around the world with this captivating theme! Can you recognize the famous landmarks depicted on the cards? From towering skyscrapers to ancient ruins, challenge your friends to guess the clues and discover the beauty and history of these remarkable landmarks!",
+        "banner": "Geography",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 42,
+        "name": "Grey's Anatomy Spotlight",
+        "description": "Put your Grey's Anatomy knowledge to the test! Guess the characters and key scenes while your friends perform and describe them for you.",
+        "banner": "Grey's Anatomy",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 134,
+        "name": "Bar Menu Challenge",
+        "description": "From martinis to mojitos, guess all the drink-related words as your friends describe them. Enjoy a night of fun with friends and always drink responsibly!",
+        "banner": "Grownup Drinks",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 135,
+        "name": "Adult Party Fun",
+        "description": "Get the party started with everything you need for an epic adult gathering. Guess the words on the cards while your friends sing and give hints. Keep an eye out for any unexpected guests!",
+        "banner": "Grownup Party",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 75,
+        "name": "Mature Chatter",
+        "description": "For the grown-ups only! Guess the cheeky and saucy words as your teammates act them out or provide hints. Ideal for a fun evening—18+.",
+        "banner": "Grownup Talk",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 77,
+        "name": "HBO Challenge",
+        "description": "How well do you know HBO? Guess the shows and movies as your friends describe or act them out. No character names allowed for added difficulty!",
+        "banner": "HBO",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 33,
+        "name": "Harry Potter",
+        "description": "Step into the magical world of Hogwarts! A card designed exclusively for those who pronounce 'LeviOsa', rather than 'LeviosA.'. Describe the character, magical spell, or enchanted object on the card without saying its name.",
+        "banner": "Harry Potter",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 66,
+        "name": "Scary Movie Night",
+        "description": "Guess the titles of famous horror movies as your friends act out or describe the most terrifying moments. Can you handle the suspense?",
+        "banner": "Horror Movies",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 5,
+        "name": "Accent and Impression Game",
+        "description": "Guess the characters by listening to impressions, accents, and iconic quotes performed by your friends. The more accurate the mimicry, the better!",
+        "banner": "Impressions & Accents",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 71,
+        "name": "K-Pop Fever",
+        "description": "If K-Pop is your jam, you’ll love this! Guess the names of popular songs and artists. For an added challenge, let your friends hum the melodies and try to guess the hits!",
+        "banner": "K-Pop",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 125,
+        "name": "Kids' Top Picks",
+        "description": "From fun activities to tasty treats, guess your favorite kids' items by acting them out, giving hints, or even drawing them. Gather your family and enjoy!",
+        "banner": "Kids Favorites",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 126,
+        "name": "Toy Challenge",
+        "description": "Guess the toys and games by acting them out or giving hints. Challenge your family to see who can guess the toys the fastest!",
+        "banner": "Kids Toys",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 41,
+        "name": "Latin Tunes",
+        "description": "Guess the popular Latin songs from the last few decades as your friends hum them for you. No lyrics—just pure melody!",
+        "banner": "Latin Music",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 44,
+        "name": "Love Ballads",
+        "description": "Put your romantic knowledge to the test! Try to guess all the love ballads as your partner hums the most iconic love songs.",
+        "banner": "Love Songs",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 73,
+        "name": "Marvel",
+        "description": "For all the Marvel lovers out there. Guess all the words related to Marvel Comics and MCU while your friends act out, impersonate, or describe what they see on the card.",
+        "banner": "Marvel",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 61,
+        "name": "The Money Heist",
+        "description": "Plrack the heist code by guessing the words related to the Professor and his crew. Your friends will describe the heist strategy without using character names.",
+        "banner": "Money Heist",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 25,
+        "name": "Oscar Winners",
+        "description": "Test your knowledge of the finest films, directors, and actors who have won prestigious awards. For an added challenge, avoid using any character names in your clues.",
+        "banner": "Movie Awards",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 15,
+        "name": "Movies",
+        "description": "Dive into the world of iconic cinema! Guess the movie based on your friends' plot descriptions without mentioning any character names.",
+        "banner": "Movies",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 16,
+        "name": "Music Challenge",
+        "description": "Love music? Hum to your heart's content and guess the song on the screen as quickly as possible. For a real test, keep your hints word-free!",
+        "banner": "Music",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 80,
+        "name": "Narcos Rewind",
+        "description": "Relive the action of Narcos by guessing the main characters, iconic quotes, and key events from the first two seasons. Use up to 5 hints to help your friends figure them out!",
+        "banner": "Narcos",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 68,
+        "name": "Netflix Challenge",
+        "description": "Test your Netflix knowledge by guessing the series and movies from the card as your friends act out or describe them. Avoid any spoilers for a true challenge!",
+        "banner": "Netflix",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 45,
+        "name": "Daily Items",
+        "description": "How well do you know your everyday items? Guess the objects from the card while your friends describe or perform them, with no rhyming allowed!",
+        "banner": "Objects",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 81,
+        "name": "Daily Items 2",
+        "description": "Put your skills to the test with another set of everyday items. Have your friends act out or describe them for a fun and challenging experience!",
+        "banner": "Objects 2",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 64,
+        "name": "Orange Is the New Black",
+        "description": "Dive back into the iconic scenes of this Netflix prison drama. See if you can guess the word on the card while your friends describe it without naming any characters!",
+        "banner": "Orange Is the New Black",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 13,
+        "name": "Chemical Elements",
+        "description": "Are you a science buff? Guess the chemical elements from your friends' clues without them using any rhyming words.",
+        "banner": "Periodic Table",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 127,
+        "name": "Around the House",
+        "description": "HFrom the kitchen to the living room, guess everyday household objects and rooms. Use your imagination to act them out and avoid pointing for an extra challenge!",
+        "banner": "Playhouse",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 26,
+        "name": "Pokémon Adventure",
+        "description": "Embark on a Pokémon journey! Try to identify Pokémon from the 1st and 2nd generations while your friends describe them without mentioning their names.",
+        "banner": "Pokémon",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 27,
+        "name": "Pretty Little Liars",
+        "description": "Uncover the secrets of Pretty Little Liars! Identify the key elements from the show while your friends describe them without mentioning any character names.",
+        "banner": "Pretty Little Liars",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 133,
+        "name": "Pride",
+        "description": "Celebrate diversity and have your friends shout out clues for you to guess some of the biggest LGBTQ+ icons ever! Give as little as 3 hints to make it even more challenging.",
+        "banner": "Rainbow",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 110,
+        "name": "Remix",
+        "description": "Some of the best words of your favorite categories together in one deck! Describe the movie, sing the song, act out the profession, and much more!",
+        "banner": "Remix",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 2,
+        "name": "Rom-Coms",
+        "description": "Because romantic comedies will always be everyone's ultimate guilty pleasure, this one's for you. Reenact some of the most famous scenes ever and get your friends to guess the rom-com!",
+        "banner": "Rom-Coms",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 39,
+        "name": "Soccer Frenzy",
+        "description": "Put your soccer knowledge to the test! Guess the iconic players and their teams as your friends give you clues. Will you be the MVP of guessing?",
+        "banner": "Soccer",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 29,
+       "name": "Noise Guessing Game",
+        "description": "Put your ears to the test! Guess the sounds your friends make without any hints or acting. It’s all about the noises!",
+        "banner": "Sounds",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 136,
+        "name": "Adult Heat",
+        "description": "Turn up the intensity with this spicy deck! Guess the most provocative terms as your friends act them out. For adults only—18+!",
+        "banner": "Spicy Grownup Talk",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 12,
+        "name": "Sports",
+        "description": "Is your knowledge of the sports' world up to date? Guess the words by watching and listening to your friends.",
+        "banner": "Sports",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 19,
+        "name": "Star Wars Saga",
+        "description": "Embark on an epic journey through the Star Wars universe. Act out iconic scenes and guess the words on the card. Remember, no rhyming—just pure Star Wars action!",
+        "banner": "Star Wars",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 112,
+        "name": "Star Wars Saga 2",
+        "description": "For the ultimate Star Wars fans who can’t get enough of The Mandalorian, Clone Wars, and more! Have your friends give hints as you guess the words on the card. Get ready for galactic fun!",
+        "banner": "Star Wars+",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 60,
+        "name": "Stranger Things",
+        "description": "Step into Eleven's world and guess all the iconic elements from Stranger Things. Have your friends act out the scenes and describe the plots without using any names.",
+        "banner": "Stranger Things",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 62,
+        "name": "Summer Fun",
+        "description": "Celebrate the hottest season with a game full of summer-related words. Let your friends act out and describe everything from beach trips to ice cream cones!",
+        "banner": "Summer",
+        "unlocked": true,
+        "done": false
+    },
+    {
+        "id": 30,
+        "name": "Superhero Showdown",
+        "description": "Test your knowledge of the superhero universe. Guess the superhero characters as your friends provide clues and act out their heroic deeds without naming any movies or characters!",
+        "banner": "Superheroes",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 4,
+        "name": "TV Shows",
+        "description": "From dramas to comedies, guess your favorite TV shows as your friends describe the plots without using any character names or rhymes!",
+        "banner": "TV Series",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 50,
+        "name": "Tennis Tournament",
+        "description": "Serve up some fun by guessing tennis-related words and players. See if you can get all the answers while your friends provide hints without giving it all away.",
+        "banner": "Tennis",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 31,
+        "name": "The Big Bang Theory",
+        "description": "Experience the humor of The Big Bang Theory by guessing the terms and scenes from the series. Your friends will act out or describe the words, keeping character names off-limits!",
+        "banner": "The Big Bang Theory",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 52,
+        "name": "The Simpsons",
+        "description": "Test your knowledge of the longest-running animated series ever. Guess the words related to The Simpsons as your friends describe them without revealing too much.",
+        "banner": "The Simpsons",
+        "unlocked": false,
+        "done": true
+    },
+    {
+        "id": 79,
+        "name": "Walking Dead Challenge",
+        "description": "Face the post-apocalyptic world of The Walking Dead by guessing words related to the series. Describe them to your friends without using rhymes or too many hints.",
+        "banner": "The Walking Dead",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 103,
+        "name": "TikTok Challenge",
+        "description": "Test your TikTok knowledge by using your best moves and hints! Describe the word on the card with no more than 5 clues while your friends guess.",
+        "banner": "TikTok",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 107,
+        "name": "United States",
+        "description": "Think you're a USA expert? Show it off with this deck! Describe the USA-related words on the card to your teammates without rhyming to help them guess.",
+        "banner": "USA",
+        "unlocked": false,
+        "done": false
+    },
+    {
+        "id": 49,
+        "name": "Famous YouTubers",
+        "description": "Guess the well-known YouTubers based on your friends' descriptions of their content and style. Try not to use rhymes!",
+        "banner": "Youtubers",
+        "unlocked": false,
+        "done": true
+    }
+]

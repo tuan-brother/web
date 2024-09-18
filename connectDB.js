@@ -13,10 +13,41 @@ const user = new Schema({
   collection:'User'
 });
 
+const banner = new Schema({
+  title: String,
+  image: String,
+  type : String,
+  isFree: Boolean
+}, {
+  collection:'Banner'
+})
+
+const deck = new Schema({
+  img: Number,
+  infor: String,
+  url: String,
+  folder: String,
+  like_count: Number,
+  id_deck: Number,
+  name: String,
+  description: String,
+  banner: String
+}, {
+  collection:'Decks'
+});
+
 const MyModel = mongoose.model('user', user);
+
+const MyDecks = mongoose.model('decks', deck);
+
+const Banner = mongoose.model('banner', banner);
 
 // MyModel.create({
 //   name:'Tuan Anh dz'
 // })
 
-module.exports = MyModel
+module.exports = {
+  Banner,
+  MyDecks,
+  MyModel
+}
