@@ -48,7 +48,7 @@ app.set('view engine', 'ejs')
 
 //config static file
 // app.use(express.static(path.join(__dirname, 'src/public')))
-// app.use(express.static(path.join(__dirname, 'Applight')))
+app.use(express.static(path.join(__dirname, 'Applight')))
 // app.get('/add', (req, res) => {
   // res.render('./deckfile.json')
   // console.log('vao app roi nhe')
@@ -183,7 +183,7 @@ let data = fs.readJsonSync('deckfile.json');
 
 // const port = process.env.PORT || 3000;
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('/index.html')
 })
 
 app.listen(port, () => {
