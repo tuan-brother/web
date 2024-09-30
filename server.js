@@ -39,6 +39,7 @@ app.use(bodyParser.json())
 
 const configEngine = require('./src/config/viewEngine')
 const { da, de } = require('translate-google/languages')
+const { log } = require('console')
 const port = process.env.PORT || 3000
 const hostname = process.env.HOST_NAME
 
@@ -183,9 +184,11 @@ let data = fs.readJsonSync('deckfile.json');
 
 // const port = process.env.PORT || 3000;
 app.get('/', (req, res) => {
+  console.log(`Server running at http://${hostname}:${port}/`);
   res.send('/index.html')
 })
 
 app.listen(port, () => {
+  console.log(`Server running at http://${hostname}:${port}/`);
   console.log(`Example app listening on port ${port}`)
 })
