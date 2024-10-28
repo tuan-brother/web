@@ -40,6 +40,7 @@ app.use(bodyParser.json())
 const configEngine = require('./src/config/viewEngine')
 const { da, de } = require('translate-google/languages')
 const { log } = require('console')
+const { render } = require('ejs')
 const port = process.env.PORT || 3000
 const hostname = process.env.HOST_NAME
 
@@ -186,6 +187,12 @@ let data = fs.readJsonSync('deckfile.json');
 app.get('/', (req, res) => {
   console.log(`Server running at http://${hostname}:${port}/`);
   res.send('/index.html')
+})
+
+app.get('/app-ads.txt', (req, res) => {
+  console.log(`Server running at http://${hostname}:${port}/`);
+  // res.send('/index.html')
+  res.sendFile(path.join(__dirname, 'app-ads.txt'));
 })
 
 app.listen(port, () => {
